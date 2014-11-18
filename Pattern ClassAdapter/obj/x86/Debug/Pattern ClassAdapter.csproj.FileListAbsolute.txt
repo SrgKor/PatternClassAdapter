@@ -1,0 +1,7 @@
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ClassAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ClassAdapter\bin\Debug\Pattern ClassAdapter.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ClassAdapter\bin\Debug\Pattern ClassAdapter.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ClassAdapter\obj\x86\Debug\Pattern ClassAdapter.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ClassAdapter\obj\x86\Debug\Pattern ClassAdapter.pdb
+C:\Users\Julia\Desktop\C#Projects\Pattern ClassAdapter\Pattern ClassAdapter\obj\x86\Debug\Pattern ClassAdapter.exe
+C:\Users\Julia\Desktop\C#Projects\Pattern ClassAdapter\Pattern ClassAdapter\obj\x86\Debug\Pattern ClassAdapter.pdb
